@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "omi-mobile",
+    "slug": "omi-mobile",
+    "scheme": "omi",
+    "sdkVersion": "51.0.0",
+    "android": {
+      "package": "com.raynos.omi"
+    },
+    "ios": {
+      "bundleIdentifier": "com.raynos.omi"
+    }
+  }
+}
